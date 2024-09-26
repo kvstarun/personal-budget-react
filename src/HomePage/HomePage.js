@@ -60,19 +60,6 @@ function HomePage() {
             accounted for.
           </p>
         </article>
-
-        <article>
-          <h1>Chart</h1>
-          <p>
-            <canvas
-              id="myChart"
-              width="400"
-              height="400"
-              aria-label="Financial Chart showing budget data"
-            ></canvas>
-          </p>
-        </article>
-        <div id="pie-chart"></div>
       </section>
     </main>
   );
